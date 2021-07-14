@@ -1,0 +1,2 @@
+FirstPartRapperName = ['Rich', 'DJ', 'Lil', 'Forreal','Princess', 'MC', 'Always','Bad', 'K.K.', 'Big', 'Sticky', 'Di$$y', 'Wild', 'Fresh', 'Killa', 'Chrome'];
+SecondPartRapperName = ['A$$','Leviosa', 'LeLe','Moneybagz','Boaty','Sushi','Fungi','A.F.', 'Soda', 'Jelly B', 'Army', 'East','Mummy','Doo Doo', 'T.G.I.F.', 'Willy\'s','Hangry', 'Smoggy','Daddy','Gucci','Bo$$', 'Farty', 'Chain', '2000', 'Dollars', 'Digger', 'Sausage', 'Mischief', 'Cripple']
